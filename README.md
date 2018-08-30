@@ -5,6 +5,8 @@ The example scene was built around VR in mind, but you can remove it. The gloveo
 
 For now, the example script just simply vibrates the relevant fingertip when the collider on them hits another collider.
 
+Note: I'm not sure if the project is properly configured or not, but please ensure that the .NET target is at least .NET 4.5
+
 Pre-requisite:
 - Unity 2018 (specifically 2018.1.9f1) or above
 - ND Suite (Link as of 30/08/2018: https://www.neurodigital.es/developer/)
